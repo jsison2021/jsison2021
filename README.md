@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Justin Sison
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me at jsison2021@fau.edu
+👋 Hi, I’m Justin Sison
+
+I am always eager to learn new and innovative technologies. 
+My main interests are in Software Development, Web/Mobile App Development, and Data Analytics. 
+
+
+📫 Reach me at jsison64@yahoo.com
 
 <!---
 jsison2021/jsison2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
